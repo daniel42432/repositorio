@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>pagina2</title>
+</head>
+<body bgcolor="pink">
+Pagina 2: Esta va a ser el contenido.
+<center><img src ="publicidad.JPG"></center>
+</body>
+</html>

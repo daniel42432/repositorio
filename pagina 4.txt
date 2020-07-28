@@ -1,0 +1,11 @@
+<html>
+
+<head>
+<title>pagina4</title>
+</head>
+<body bgcolor="black">
+Pagina 4: esta va a ser el menu lateral izquierdo.
+<img src="robot.gif">
+</body>
+</html>
+         ***//https://aprende-web.net/comple/subir/subir2.php
